@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! My name is Daryll Villanueva</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daryllvillanueva&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryllvillanueva&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+</div>
+
+![daryllvillanueva's Stats]()
 ###
 
 <div align="left">
