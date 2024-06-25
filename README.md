@@ -5,7 +5,7 @@
 </div>
 
 ###
-
+---
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -28,8 +28,8 @@
 </div>
 
 ###
-
-<div align="left flex gap-3">
+---
+<div align="left flex gap-10">
   <a href="https://www.facebook.com/daryll.villanueva19/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook        logo"  />
   </a>
@@ -41,12 +41,9 @@
   </a>
 </div>
 
-
-[![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
-
 ###
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=3&icon=2&pretty=false)]
 
 
 
