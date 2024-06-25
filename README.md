@@ -6,6 +6,7 @@
 
 ###
 
+### Tech Utilized:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -27,7 +28,6 @@
   <img width="12" />
 </div>
 
-###
 ## 🌐 Socials:
 <div align="left flex gap-10">
   <a href="https://www.facebook.com/daryll.villanueva19/">
@@ -41,9 +41,8 @@
   </a>
 </div>
 
-###
 ---
-![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=0&icon=5&pretty=false)]
+![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=0&icon=5&pretty=false)
 
 
 
