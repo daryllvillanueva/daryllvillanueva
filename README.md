@@ -28,7 +28,7 @@
 </div>
 
 ###
-
+## 🌐 Socials:
 <div align="left flex gap-10">
   <a href="https://www.facebook.com/daryll.villanueva19/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook        logo"  />
@@ -43,10 +43,7 @@
 
 ###
 ---
-![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=3&icon=2&pretty=false)
-
-
-
+![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=0&icon=5&pretty=false)]
 
 
 
