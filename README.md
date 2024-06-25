@@ -6,23 +6,12 @@
 </div>
 
 ## 🌐 Socials:
-<div align="left" style="display: flex;">
-  <div>
-    <a href="https://www.facebook.com/daryll.villanueva19/">
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook        logo"/>
-    </a>
-  </div>
-  <div>
-    <a href="mailto:darylljvillanueva@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/daryll-villanueva/">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin        logo"/>
-    </a>
-  </div>
-</div>
+[<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"/>](https://www.facebook.com/daryll.villanueva19/)
+&nbsp;
+[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>](mailto:darylljvillanueva@gmail.com)
+&nbsp;
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>](https://www.linkedin.com/in/daryll-villanueva/)
+
 
 # 💻 Tech Utilized:
 <div align="left">
