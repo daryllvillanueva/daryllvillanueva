@@ -6,7 +6,7 @@
 </div>
 
 ## 🌐 Socials:
-<div style="display: flex; flex-direction: row;">
+<div display="flex">
   <div>
     <a href="https://www.facebook.com/daryll.villanueva19/">
       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook        logo"/>
@@ -48,15 +48,3 @@
 
 ---
 ![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=0&icon=5&pretty=false)
-
-
-<section data-markdown>
-  <textarea data-template>
-    # Testing 
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-    </div>
-  </textarea>
-</section>
