@@ -1,6 +1,6 @@
 <h2 align="left">Hello There! Let's Work and Build Together.</h2>
 
-### 📊 Github Stats:
+## 📊 Github Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryllvillanueva&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
