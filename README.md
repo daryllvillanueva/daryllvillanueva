@@ -6,7 +6,7 @@
 </div>
 
 ## 🌐 Socials:
-<div style="display: flex; align-items: center; gap: 10px;">
+<div class="flex-container" .element: style="display: flex; flex-direction: row;">
   <div>
     <a href="https://www.facebook.com/daryll.villanueva19/">
       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook        logo"/>
