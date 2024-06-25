@@ -1,5 +1,4 @@
 <h2 align="left">Hello There! Let's Work and Build Together.</h2>
-#
 
 ### 📊 Github Stats:
 <div align="left">
