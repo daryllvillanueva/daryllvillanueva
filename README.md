@@ -29,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="left flex gap-3">
   <a href="https://www.facebook.com/daryll.villanueva19/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook        logo"  />
   </a>
@@ -40,6 +40,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin        logo"  />
   </a>
 </div>
+
+
+[![](https://visitcount.itsvg.in/api?id=daryllvillanueva&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 ###
 
